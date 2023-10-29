@@ -28,7 +28,7 @@ const OrderCard = ({item,key}) => {
                 <View className='rounded-full overflow-hidden' >
                     <Image source={{uri:urlFor(item[0]?.image).url()}} style={{ width: wp(13), height: wp(13) }} />
                 </View>
-                <Text style={{ fontSize: wp(4.2) }}>{item[0]?.name}</Text>
+                <Text style={{ fontSize: wp(3.8) }}>{item[0]?.name}</Text>
             </View>
             <View className='flex-row items-center ' style={{ gap: wp(2) }}>
                 <Text style={{ fontSize: wp(4.2) }} className='font-semibold'>${item[0]?.price}</Text>
