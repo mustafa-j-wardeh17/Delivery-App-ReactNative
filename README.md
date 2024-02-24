@@ -54,11 +54,11 @@ npm install
 ```
 
 3. Set up Sanity.io:
--Create a Sanity.io project.
--Define schemas for menus, orders, users, etc.
--Deploy Sanity.io project to production.
+- Create a Sanity.io project.
+- Define schemas for menus, orders, users, etc.
+- Deploy Sanity.io project to production.
 
 4. Configure API:
-  -Obtain Sanity.io API tokens.
-  -Set up environment variables for API authentication.
+  - Obtain Sanity.io API tokens.
+  - Set up environment variables for API authentication.
    
