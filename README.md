@@ -62,7 +62,3 @@ npm install
   -Obtain Sanity.io API tokens.
   -Set up environment variables for API authentication.
    
-5- Start the development server:
-```
-npm start
-```
